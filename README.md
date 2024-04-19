@@ -1,4 +1,4 @@
-Игра Кубикон / Game Cubicon 
+Игра Кубикон / Game Cubicon
 :star: Цель: Выстроить линии в ряд 
 :video_game: Управление: Управляйте черным кубиком с помощью стрелок клавиатуры :arrow_up: Вверх :arrow_down: Вниз :arrow_left: Влево :arrow_right: Вправо
 
