@@ -12,6 +12,7 @@ PyQt5 - Библиотека (Python) для отображения интерф
 :open_file_folder: Система уровней:
 
 Три уровня изначально в игре, но вы можете создать свой, используя редактор уровней. Инструкции по созданию уровня и его правила описаны в файле "Редактор уровней.txt"
+
 :memo: Game Cubicon :star: Objective: Line up the lines :video_game: Controls: Control the black cube using the arrow keys :arrow_up: Up :arrow_down: Down :arrow_left: Left :arrow_right: Right
 
 :game_die: Development Tools:
