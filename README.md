@@ -1,29 +1,35 @@
-**Игра Кубикон**
+Игра Кубикон / Game Cubicon :star: Цель: Выстроить линии в ряд :video_game: Управление: Управляйте черным кубиком с помощью стрелок клавиатуры :arrow_up: Вверх :arrow_down: Вниз :arrow_left: Влево :arrow_right: Вправо
 
-**Цель:** выстроить линии в ряд
-**Управление:** управляете черным кубиком при помощи стрелок
-стрелка вверх - вверх 
-стрелка вниз - вниз 
-стрелка влево - влево 
-стрелка вправо - вправо.
+:game_die: Инструменты разработки:
 
-В игре реализованна система уровней. Изночально три уровня но примощи редактора уровня вы можете создать свой. Как создать свой уровень и правило его расписаны _"Редактор уровней.txt"_
+Python 12 - Основной язык программирования
+PyQt5 - Библиотека (Python) для отображения интерфейса
+:open_file_folder: Система уровней:
 
-Инструменты разработки:
-**Python 12** - основной язык програмировавния
-**PyQt5** - библиотека(Python) дял отбражения интерфеса
+Три уровня изначально в игре, но вы можете создать свой, используя редактор уровней. Инструкции по созданию уровня и его правила описаны в файле "Редактор уровней.txt"
+:memo: Game Cubicon :star: Objective: Line up the lines :video_game: Controls: Control the black cube using the arrow keys :arrow_up: Up :arrow_down: Down :arrow_left: Left :arrow_right: Right
 
-**Game Cubicon**
+:game_die: Development Tools:
 
-**Objective:** line up the lines
-**Controls:** control the black cube using the arrows
-up arrow - up
-down arrow - down
-left arrow - left
-right arrow - right.
+Python 12 - The main programming language
+PyQt5 - Library (Python) for displaying the interface
+:open_file_folder: Level System:
 
-The game has a level system. There are initially three levels, but you can create your own using the level editor. How to create your own level and its rules are described _"Level Editor.txt"_
+There are three levels in the game initially, but you can create your own using the level editor. Instructions and rules for creating a level are described in the "Level Editor.txt" file.
+icon
 
-Development Tools:
-**Python 12** - the main programming language
-**PyQt5** - library (Python) for displaying the interface
+Правила игры Инструкции по созданию уровня
+
+Сборка и запуск игры
+
+:warning: Внимание: Для запуска игры требуется установленный Python 12 и PyQt5.
+
+:heart: Пожелания и предложения: Создайте новую проблему
+
+:octocat: Разработчик: Github / LinkedIn / Twitter
+
+:copyright: Лицензия: MIT
+
+
+
+
