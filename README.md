@@ -1,4 +1,6 @@
-Игра Кубикон / Game Cubicon :star: Цель: Выстроить линии в ряд :video_game: Управление: Управляйте черным кубиком с помощью стрелок клавиатуры :arrow_up: Вверх :arrow_down: Вниз :arrow_left: Влево :arrow_right: Вправо
+Игра Кубикон / Game Cubicon 
+:star: Цель: Выстроить линии в ряд 
+:video_game: Управление: Управляйте черным кубиком с помощью стрелок клавиатуры :arrow_up: Вверх :arrow_down: Вниз :arrow_left: Влево :arrow_right: Вправо
 
 :game_die: Инструменты разработки:
 
@@ -24,12 +26,7 @@ icon
 
 :warning: Внимание: Для запуска игры требуется установленный Python 12 и PyQt5.
 
-:heart: Пожелания и предложения: Создайте новую проблему
-
-:octocat: Разработчик: Github / LinkedIn / Twitter
-
-:copyright: Лицензия: MIT
-
+:octocat: Разработчик: https://github.com/Redin666
 
 
 
